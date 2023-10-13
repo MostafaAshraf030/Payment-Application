@@ -1,0 +1,21 @@
+﻿  app.c
+C:\Users\Mostafa Ashraf\Desktop\New folder (3)\PaymentApplication\PaymentApplication\app.c(61,12): warning C4477: 'printf' : format string '%f' requires an argument of type 'double', but variadic argument 1 has type 'float *'
+C:\Users\Mostafa Ashraf\Desktop\New folder (3)\PaymentApplication\PaymentApplication\app.c(17,18): warning C4101: 'transState': unreferenced local variable
+  card.c
+C:\Users\Mostafa Ashraf\Desktop\New folder (3)\PaymentApplication\PaymentApplication\card.c(18,2): warning C4013: 'gets' undefined; assuming extern returning int
+  main.c
+C:\Users\Mostafa Ashraf\Desktop\New folder (3)\PaymentApplication\PaymentApplication\main.c(20,3): warning C4013: 'gets' undefined; assuming extern returning int
+  server.c
+C:\Users\Mostafa Ashraf\Desktop\New folder (3)\PaymentApplication\PaymentApplication\server.c(27,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Mostafa Ashraf\Desktop\New folder (3)\PaymentApplication\PaymentApplication\server.c(28,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Mostafa Ashraf\Desktop\New folder (3)\PaymentApplication\PaymentApplication\server.c(29,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Mostafa Ashraf\Desktop\New folder (3)\PaymentApplication\PaymentApplication\server.c(31,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+  terminal.c
+C:\Users\Mostafa Ashraf\Desktop\New folder (3)\PaymentApplication\PaymentApplication\terminal.c(12,27): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mostafa Ashraf\Desktop\New folder (3)\PaymentApplication\PaymentApplication\terminal.c(28,2): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mostafa Ashraf\Desktop\New folder (3)\PaymentApplication\PaymentApplication\terminal.c(43,2): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mostafa Ashraf\Desktop\New folder (3)\PaymentApplication\PaymentApplication\terminal.c(44,2): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mostafa Ashraf\Desktop\New folder (3)\PaymentApplication\PaymentApplication\terminal.c(47,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mostafa Ashraf\Desktop\New folder (3)\PaymentApplication\PaymentApplication\terminal.c(48,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mostafa Ashraf\Desktop\New folder (3)\PaymentApplication\PaymentApplication\terminal.c(111,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...

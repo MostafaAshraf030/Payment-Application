@@ -1,0 +1,30 @@
+Case1:---------------------------------
+Card Holder Name: Mostafa Ashraf Hassan
+Expiry Date: 12/27
+PAN: 3846854165465161
+Withdrawn Amount: 3500
+***************************************
+Case2:---------------------------------
+Card Holder Name: Mostafa Ashraf Hassan
+Expiry Date: 12/27
+PAN: 3846854165465161
+Withdrawn Amount: 20000
+***************************************
+Case3:---------------------------------
+Card Holder Name: Mostafa Ashraf Hassan
+Expiry Date: 12/27
+PAN: 5848561016866516
+Withdrawn Amount: 1000
+***************************************
+Case4:---------------------------------
+Card Holder Name: Mostafa Ashraf Hassan
+Expiry Date: 11/21
+PAN: 5848561016866516
+***************************************
+Case5:---------------------------------
+Card Holder Name: Mostafa Ashraf Hassan
+Expiry Date: 12/27
+PAN: 9713812542563250
+***************************************
+
+

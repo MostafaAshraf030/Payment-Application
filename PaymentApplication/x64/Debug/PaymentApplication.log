@@ -1,0 +1,10 @@
+﻿  app.c
+C:\Users\Mostafa Ashraf\Desktop\New folder (3)\PaymentApplication\PaymentApplication\app.c(61,12): warning C4477: 'printf' : format string '%f' requires an argument of type 'double', but variadic argument 1 has type 'float *'
+C:\Users\Mostafa Ashraf\Desktop\New folder (3)\PaymentApplication\PaymentApplication\app.c(17,18): warning C4101: 'transState': unreferenced local variable
+  main.c
+C:\Users\Mostafa Ashraf\Desktop\New folder (3)\PaymentApplication\PaymentApplication\main.c(20,3): warning C4013: 'gets' undefined; assuming extern returning int
+  server.c
+  terminal.c
+  Generating Code...
+C:\Users\Mostafa Ashraf\Desktop\New folder (3)\PaymentApplication\PaymentApplication\terminal.c(220): warning C4716: 'setMaxAmount': must return a value
+  PaymentApplication.vcxproj -> C:\Users\Mostafa Ashraf\Desktop\New folder (3)\PaymentApplication\x64\Debug\PaymentApplication.exe
